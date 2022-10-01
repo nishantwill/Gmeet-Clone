@@ -1,2 +1,2 @@
-# Roomz
-Roomz - A new video conferencing app!
+# Gmeet clone
+A video conferencing app based on google meet!
